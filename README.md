@@ -1,7 +1,7 @@
-##SPECS (Simple, Parillel Entity Component Sysytem)
+## SPECS (Simple, Parillel Entity Component Sysytem)
 
-#overview
+# Overview
 Specs will be built with parillel exicution as its top prioraty, it will be archetype.
 
-#building
+# Building
 Specs uses Cmake as it build system and will be staticly linked (at least initialy)
