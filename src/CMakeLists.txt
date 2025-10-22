@@ -8,9 +8,9 @@ set(SRC_FILES
 )
 
 # Create a static library
-add_library(Specs STATIC ${SRC_FILES})
+add_library(Aspecs STATIC ${SRC_FILES})
 
-target_include_directories(Specs
+target_include_directories(Aspecs
         PUBLIC
         ${PROJECT_SOURCE_DIR}/include
 )
