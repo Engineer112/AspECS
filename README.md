@@ -1,7 +1,9 @@
-## SPECS (Simple, Parillel Entity Component Sysytem)
+## Aspecst(Archetyped, simple, preformant, entity component system)
 
 # Overview
-Specs will be built with parillel exicution as its top prioraty, it will be archetype.
+Aspecs will be built with parillel exicution as its top prioraty, it will be archetype.
 
 # Building
-Specs uses Cmake as it build system and will be staticly linked (at least initialy)
+Aspecs uses Cmake as it build system and will be staticly linked (at least initialy)
+
+# Topics
