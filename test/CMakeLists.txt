@@ -49,7 +49,7 @@ add_executable(unit_tests ${TEST_FILES}
 )
 
 # Link gtest and your engine library
-target_link_libraries(unit_tests PRIVATE gtest_main Aspecs)
+target_link_libraries(unit_tests PRIVATE gtest_main AspECS)
 
 # -------------------------------
 # Register tests with CTest

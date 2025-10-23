@@ -1,9 +1,9 @@
-## Aspecst(Archetyped, simple, preformant, entity component system)
+## AspECS(Archetyped, simple, proformant, entity component system)
 
 # Overview
-Aspecs will be built with parillel exicution as its top prioraty, it will be archetype.
+AspECS will be built with parallel execution as its top priority, it will be archetype.
 
 # Building
-Aspecs uses Cmake as it build system and will be staticly linked (at least initialy)
+AspECS uses Cmake as it build system and will be statically linked (at least initially)
 
 # Topics
